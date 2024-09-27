@@ -1,4 +1,4 @@
 alert("hola mundo");
-//Parte donde se edita el ("hola mundo")
+//Segunda linea editar el código
 alert("hola mundo_editado");
 console.log("cambios en el archivo");
